@@ -1,0 +1,14 @@
+{
+    "name": "venusaur",
+    "version": "4.0.4",
+    "description": "dumb package to verify if you really saw my resume",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm lol"
+    },
+    "keywords": [
+        "pokemon"
+    ],
+    "author": "gtktsc",
+    "license": "ISC"
+}
